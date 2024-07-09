@@ -1,0 +1,51 @@
+body {
+  background-image: url("euro2024image.webp");
+}
+
+h1 {
+  margin-inline-start: -400px;
+  margin-top: -4px;
+  font-size: 2em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  display: flex;
+  align-content: center;
+  font-weight: bolder;
+  color: white;
+  justify-content: space-evenly;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  color: white;
+}
+
+nav {
+  display: flex;
+  gap: 50px;
+  font-weight: bold;
+  align-content: center;
+  margin-inline-start: -360px;
+  margin-top: 5px;
+  font-size: 1em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.feature {
+  color: white;
+  display: flexbox;
+  margin-inline-start: 390px;
+  margin-top: 250px;
+  justify-content: space-between;
+  justify-content: last baseline;
+  font-size: x-large;
+}
+
+footer {
+  display: flexbox;
+  margin-inline-start: 400px;
+  margin-top: 250px;
+  justify-content: space-between;
+}
